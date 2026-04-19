@@ -11,7 +11,7 @@ install laravel
 https://www.malasngoding.com/pengertian-dan-cara-install-laravel/
 ```
 
-buka folder xampp > htdocs > tugas_pbw (tarok folder project laravel disini)
+buka folder xampp > htdocs > masjidshiratalmustaqiem (tarok folder project laravel disini) coba langsung copy aja zip ku ke dalam folder htdocs
 
 kalau udah buat folder projectnya, buka di vs code folder projectnya, trs buka phpmyadmin untuk buat database
 
